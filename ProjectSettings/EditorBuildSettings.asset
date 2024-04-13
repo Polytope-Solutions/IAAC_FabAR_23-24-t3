@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/BaseSetup.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_PolytopeSolutions/Scenes/BaseSetup Module Experiment.unity
+    guid: 97075c7cc6dd9a842be8622207e180a0
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 4460cd93db51d0b47b5a63f54abb30e7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2ac2b19e7eda1e84680aa9fdb40d918f, type: 2}
