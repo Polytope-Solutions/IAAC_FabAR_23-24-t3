@@ -8,31 +8,37 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/BaseSetup.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/01_Intro_Afham.unity
     guid: a216a83198b6d26438e11751a6e9bd0d
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/05_FabricationSelectionPage_Afham.unity
     guid: 9dfd0cd70550326499264894a8b87f6a
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/03_HomePage_Afham1.unity
     guid: d756886a0d8234744a75924ff3297405
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/02_Credits_Afham.unity
     guid: 553ecc18075bc0549884adf2abe091fa
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/06_AR_Experience_Afham.unity
     guid: 3545fa754f1abeb48a825a32a40666f5
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/08_Headset_FabricationModuleAssembly.unity
     guid: 5aeed069a23311d4dab7d6d42f42fc5e
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/08_FabricationModuleAssembly 1.unity
     guid: f7b88ad4f77ce8b42a172d88c1bc680f
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/09_FabricationModule_GlobalModel_Tao.unity
     guid: 623143a42b5159145b337435cf1ff138
+  - enabled: 0
+    path: Assets/_PolytopeSolutions/Scenes/09_FabricationModule_GlobalModel_Tao_Phone.unity
+    guid: 7ba9acbf1b7a65149bc18f42325c0d86
   - enabled: 1
+    path: Assets/_PolytopeSolutions/Scenes/09_FabricationModule_GlobalModel_Tao_Hololens.unity
+    guid: b538af3ebeb4a4d4d98e1a1f4a44a7a6
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/HoloLens Atakan.unity
     guid: 48954159f6f5e4943a8db71f9313de1b
   m_configObjects:
