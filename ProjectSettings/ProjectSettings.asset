@@ -158,6 +158,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.IAAC.FABAR24_Module_Exploration
     Standalone: com.DefaultCompany.HololensTest
   buildNumber:
     Standalone: 0
