@@ -12,6 +12,7 @@ EditorBuildSettings:
     path: Assets/_PolytopeSolutions/Scenes/BaseSetup Module Experiment.unity
     guid: 97075c7cc6dd9a842be8622207e180a0
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7d7f76803edb2d442b0366ca1c7a8f7e, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 4460cd93db51d0b47b5a63f54abb30e7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2ac2b19e7eda1e84680aa9fdb40d918f, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b357b2c73928e1d498d360321aa2d979, type: 2}
