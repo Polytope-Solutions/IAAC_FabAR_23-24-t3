@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/BaseSetup.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/BaseSetup Module Experiment.unity
     guid: 97075c7cc6dd9a842be8622207e180a0
+  - enabled: 1
+    path: Assets/_PolytopeSolutions/Scenes/08_Headset_FabricationModuleAssembly.unity
+    guid: 5aeed069a23311d4dab7d6d42f42fc5e
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7d7f76803edb2d442b0366ca1c7a8f7e, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 4460cd93db51d0b47b5a63f54abb30e7, type: 2}
