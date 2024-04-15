@@ -11,21 +11,24 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/BaseSetup Module Experiment.unity
     guid: 97075c7cc6dd9a842be8622207e180a0
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/01_Intro_Afham.unity
-    guid: bbb7247dbefeda64d9611d83ff55e97c
-  - enabled: 1
+    guid: f16b33a4c8a05f342ba765b37256834c
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/05_FabricationSelectionPage_Afham.unity
     guid: 9dfd0cd70550326499264894a8b87f6a
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/03_HomePage_Afham1.unity
     guid: d756886a0d8234744a75924ff3297405
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/02_Credits_Afham.unity
     guid: db3df1c4333b16442a20bf31e462ba8d
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/08_FabricationModuleAssembly.unity
     guid: 3e9be0df27a9b034b9a12aad617cd0e5
+  - enabled: 1
+    path: Assets/_PolytopeSolutions/Scenes/HoloLens Atakan.unity
+    guid: af8cab138fcbda744911d1dacdd34643
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7d7f76803edb2d442b0366ca1c7a8f7e, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 4460cd93db51d0b47b5a63f54abb30e7, type: 2}

@@ -17,6 +17,7 @@ public class SyncObjects : MonoBehaviour {
 
     protected virtual void Start() {
         this.anchors = new GameObject[2] { this.anchor1, this.anchor2 };
+        if (goAnchoredObject)
         StartCoroutine(SyncTransform());
     }
 

@@ -65,4 +65,5 @@ public class ARAnchorBasedPlacement : SyncObjects {
             Destroy(anchorAR);
         }
     }
+    
 }
