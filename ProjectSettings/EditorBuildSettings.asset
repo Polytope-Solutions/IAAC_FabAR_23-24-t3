@@ -8,6 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/BaseSetup.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+<<<<<<< Updated upstream
   - enabled: 1
     path: Assets/_PolytopeSolutions/Scenes/01_Intro_Afham.unity
     guid: a216a83198b6d26438e11751a6e9bd0d
@@ -35,6 +36,23 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_PolytopeSolutions/Scenes/HoloLens Atakan.unity
     guid: 48954159f6f5e4943a8db71f9313de1b
+=======
+  - enabled: 0
+    path: Assets/_PolytopeSolutions/Scenes/BaseSetup Module Experiment.unity
+    guid: 97075c7cc6dd9a842be8622207e180a0
+  - enabled: 0
+    path: Assets/_PolytopeSolutions/Scenes/08_FabricationModule_Afham.unity
+    guid: 89cd3a9b60e058f4f9a690429b2f61cd
+  - enabled: 1
+    path: Assets/_PolytopeSolutions/Scenes/02_Intro_Afham.unity
+    guid: a525072dfdce0634aabcb8d771514641
+  - enabled: 1
+    path: Assets/_PolytopeSolutions/Scenes/03_HomeScreen_Afham.unity
+    guid: fea74d9d5eaf53949a198f12cc7b183c
+  - enabled: 1
+    path: Assets/_PolytopeSolutions/Scenes/01_Intro_Afham.unity
+    guid: bbb7247dbefeda64d9611d83ff55e97c
+>>>>>>> Stashed changes
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7d7f76803edb2d442b0366ca1c7a8f7e, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: 4460cd93db51d0b47b5a63f54abb30e7, type: 2}
