@@ -3,7 +3,22 @@ guid: 9e312495f6d6ce347869ba0654191e26
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Maritime pine
+    second: {fileID: 2100000, guid: 120b9071f459460428e6ca8af3854cc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_2
+    second: {fileID: 2100000, guid: 8528d71926a453d45811923bf87aaf8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster
+    second: {fileID: 2100000, guid: 8d8ad9d1a5821ee4d8febc1fc93903e0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
