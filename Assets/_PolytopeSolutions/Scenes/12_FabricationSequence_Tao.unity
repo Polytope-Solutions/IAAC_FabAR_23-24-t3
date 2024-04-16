@@ -3618,7 +3618,7 @@ GameObject:
   - component: {fileID: 745914830}
   - component: {fileID: 745914829}
   m_Layer: 5
-  m_Name: Button_SeeModule
+  m_Name: Button_SeeModules
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3689,16 +3689,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
+      - m_Target: {fileID: 102900000, guid: 0002b634571a2704b9abf8d5f601198b, type: 3}
+        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
+        m_MethodName: set_name
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: 09_FabricationModule_Drawing_2D_Tao
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &745914830

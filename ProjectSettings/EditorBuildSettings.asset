@@ -36,8 +36,4 @@ EditorBuildSettings:
     path: Assets/_PolytopeSolutions/Scenes/HoloLens Atakan.unity
     guid: 48954159f6f5e4943a8db71f9313de1b
   m_configObjects:
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7d7f76803edb2d442b0366ca1c7a8f7e, type: 2}
-    com.unity.input.settings: {fileID: 11400000, guid: 4460cd93db51d0b47b5a63f54abb30e7, type: 2}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2ac2b19e7eda1e84680aa9fdb40d918f, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b357b2c73928e1d498d360321aa2d979, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 99801edb71768284eb595866a1d2abb5, type: 2}
