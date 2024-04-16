@@ -88,7 +88,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _ClippedColor: {r: 1, g: 0, b: 0, a: 1}
-    - _ClippingPlane: {r: 0, g: 1, b: 0, a: -0.0509}
+    - _ClippingPlane: {r: -0.62375164, g: -0.6031213, b: -0.4971707, a: -0.62118316}
     - _Color: {r: 0.85959065, g: 0.85959065, b: 0.85959065, a: 1}
     - _EmissionColor: {r: 0.21176471, g: 0.21176471, b: 0.21176471, a: 1}
   m_BuildTextureStacks: []
