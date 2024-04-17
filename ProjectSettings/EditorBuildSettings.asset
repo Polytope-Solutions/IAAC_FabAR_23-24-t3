@@ -9,21 +9,18 @@ EditorBuildSettings:
     path: Assets/_PolytopeSolutions/Scenes/BaseSetup.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
-    path: Assets/_PolytopeSolutions/Scenes/01_Intro_Afham.unity
-    guid: 9a72483319d35cb409f3b7050c7873dd
-  - enabled: 1
     path: Assets/_PolytopeSolutions/Scenes/05_FabricationSelectionPage_Afham.unity
     guid: 9dfd0cd70550326499264894a8b87f6a
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/05_FabricationProcess_Tao.unity
     guid: e8917d58c0f36ed43a234d4e8a5e3779
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/03_HomePage_Simran.unity
     guid: d756886a0d8234744a75924ff3297405
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/04_Manual_Simran.unity
     guid: 50017ea4f661ad14bb20e9272092eaba
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/02_Credits_Afham.unity
     guid: 553ecc18075bc0549884adf2abe091fa
   - enabled: 0
@@ -47,10 +44,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_PolytopeSolutions/Scenes/HoloLens Atakan.unity
     guid: 48954159f6f5e4943a8db71f9313de1b
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/00_OpeningAnimation_Simran.unity
     guid: 787e2cf31a7eed84fa922a1a2f0fb26a
-  - enabled: 1
+  - enabled: 0
     path: Assets/_PolytopeSolutions/Scenes/04_DesignOptionsComingSoon_Simran.unity
     guid: b15b72857a35cd54aaa5c9c698482a9c
   - enabled: 1
