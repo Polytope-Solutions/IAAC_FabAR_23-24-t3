@@ -391,7 +391,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1445518994747951165, guid: 14fbfbe0141556b438ab6e37ffbb8433, type: 3}
       propertyPath: sceneName
-      value: 04_DesignOptions_Simran
+      value: 06_AR_Experience_Afham
       objectReference: {fileID: 0}
     - target: {fileID: 2459639833987703744, guid: 14fbfbe0141556b438ab6e37ffbb8433, type: 3}
       propertyPath: m_Pivot.x
