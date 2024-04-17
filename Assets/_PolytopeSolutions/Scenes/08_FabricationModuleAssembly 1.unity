@@ -1823,6 +1823,7 @@ Transform:
   - {fileID: 1940774520}
   - {fileID: 601478255}
   - {fileID: 1668825173}
+  - {fileID: 1172858717}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &162044038 stripped
@@ -12003,7 +12004,7 @@ Transform:
   m_Children:
   - {fileID: 1703211216}
   - {fileID: 971006298}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 153131800}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1190754408
 GameObject:
@@ -15086,7 +15087,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -20409,7 +20410,6 @@ SceneRoots:
   - {fileID: 416210531}
   - {fileID: 1230240691}
   - {fileID: 2015130129}
-  - {fileID: 1172858717}
   - {fileID: 153131800}
   - {fileID: 5891241910410941137}
   - {fileID: 946885971}
