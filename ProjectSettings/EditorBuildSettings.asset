@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/_PolytopeSolutions/Scenes/03_HomePage_Simran.unity
     guid: d756886a0d8234744a75924ff3297405
   - enabled: 1
-    path: Assets/_PolytopeSolutions/Scenes/04_DesignOptions_Simran.unity
+    path: Assets/_PolytopeSolutions/Scenes/04_Manual_Simran.unity
     guid: 50017ea4f661ad14bb20e9272092eaba
   - enabled: 1
     path: Assets/_PolytopeSolutions/Scenes/02_Credits_Afham.unity

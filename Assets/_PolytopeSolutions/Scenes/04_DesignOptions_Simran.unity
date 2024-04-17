@@ -820,7 +820,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &223759649
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1010,14 +1010,14 @@ RectTransform:
   m_GameObject: {fileID: 276777303}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalScale: {x: 1.25, y: 1.25, z: 1.25}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 621737144}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 40, y: 0}
+  m_AnchoredPosition: {x: -7, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &276777305
@@ -1040,7 +1040,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 38f8cbdc5f8d0b9408552569ddee8e33, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 42bb2bdc326786f4b8e62eaebf8d9fa2, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1160,7 +1160,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 40, y: 0}
+  m_AnchoredPosition: {x: -3, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &428374769
@@ -1183,7 +1183,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 38f8cbdc5f8d0b9408552569ddee8e33, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 31f1fb9298aba0640a24c2121ef5424b, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1480,7 +1480,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 40, y: 0}
+  m_AnchoredPosition: {x: 24, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &579669144
@@ -1503,7 +1503,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 38f8cbdc5f8d0b9408552569ddee8e33, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5211605ee32d9074ebc6a5b450cf6c25, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2237,7 +2237,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Design  1
+  m_text: Design Option 3
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8558e8de835b6c45a8aad9c45b2eeee, type: 2}
   m_sharedMaterial: {fileID: 7615231546855802801, guid: b8558e8de835b6c45a8aad9c45b2eeee, type: 2}
@@ -2334,7 +2334,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &908090170
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2930,7 +2930,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Design  1
+  m_text: Design Option 1
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8558e8de835b6c45a8aad9c45b2eeee, type: 2}
   m_sharedMaterial: {fileID: 7615231546855802801, guid: b8558e8de835b6c45a8aad9c45b2eeee, type: 2}
@@ -3064,7 +3064,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Design  1
+  m_text: Design Option 2
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8558e8de835b6c45a8aad9c45b2eeee, type: 2}
   m_sharedMaterial: {fileID: 7615231546855802801, guid: b8558e8de835b6c45a8aad9c45b2eeee, type: 2}
@@ -4917,7 +4917,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Design  1
+  m_text: Design Option 5
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8558e8de835b6c45a8aad9c45b2eeee, type: 2}
   m_sharedMaterial: {fileID: 7615231546855802801, guid: b8558e8de835b6c45a8aad9c45b2eeee, type: 2}
@@ -5005,6 +5005,7 @@ GameObject:
   - component: {fileID: 1842431370}
   - component: {fileID: 1842431372}
   - component: {fileID: 1842431371}
+  - component: {fileID: 1842431373}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -5075,7 +5076,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 428374769}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1842431373}
+        m_TargetAssemblyTypeName: PolytopeSolutions.Toolset.Scenes.SceneLoader, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!222 &1842431372
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5084,6 +5097,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1842431369}
   m_CullTransparentMesh: 1
+--- !u!114 &1842431373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1842431369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37b5458822789db499bfd2f461634179, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 04_DesignOptionsComingSoon_Simran
 --- !u!1 &1863705750
 GameObject:
   m_ObjectHideFlags: 0
@@ -5141,7 +5167,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Design  1
+  m_text: Design Option 4
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b8558e8de835b6c45a8aad9c45b2eeee, type: 2}
   m_sharedMaterial: {fileID: 7615231546855802801, guid: b8558e8de835b6c45a8aad9c45b2eeee, type: 2}
@@ -5700,6 +5726,7 @@ GameObject:
   - component: {fileID: 2035634516}
   - component: {fileID: 2035634518}
   - component: {fileID: 2035634517}
+  - component: {fileID: 2035634519}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -5770,7 +5797,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 579669144}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2035634519}
+        m_TargetAssemblyTypeName: PolytopeSolutions.Toolset.Scenes.SceneLoader, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!222 &2035634518
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5779,6 +5818,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2035634515}
   m_CullTransparentMesh: 1
+--- !u!114 &2035634519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2035634515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37b5458822789db499bfd2f461634179, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 04_DesignOptionsComingSoon_Simran
 --- !u!1 &2037011649
 GameObject:
   m_ObjectHideFlags: 0
