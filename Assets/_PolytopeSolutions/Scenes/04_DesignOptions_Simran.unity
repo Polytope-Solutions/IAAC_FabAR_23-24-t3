@@ -2608,6 +2608,7 @@ GameObject:
   - component: {fileID: 1068221747}
   - component: {fileID: 1068221749}
   - component: {fileID: 1068221748}
+  - component: {fileID: 1068221750}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -2678,7 +2679,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1421981104}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1068221750}
+        m_TargetAssemblyTypeName: PolytopeSolutions.Toolset.Scenes.SceneLoader, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!222 &1068221749
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2687,6 +2700,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1068221746}
   m_CullTransparentMesh: 1
+--- !u!114 &1068221750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1068221746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37b5458822789db499bfd2f461634179, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 04_DesignOptionsComingSoon_Simran
 --- !u!1 &1077952526
 GameObject:
   m_ObjectHideFlags: 0
@@ -3193,7 +3219,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37b5458822789db499bfd2f461634179, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: 03_HomePage_Afham1
+  sceneName: 03_HomePage_Simran
 --- !u!114 &1174597204
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4458,7 +4484,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37b5458822789db499bfd2f461634179, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: 03_HomePage_Afham1
+  sceneName: 03_HomePage_Simran
 --- !u!1 &1519718529
 GameObject:
   m_ObjectHideFlags: 0
@@ -5005,6 +5031,7 @@ GameObject:
   - component: {fileID: 1842431370}
   - component: {fileID: 1842431372}
   - component: {fileID: 1842431371}
+  - component: {fileID: 1842431373}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -5075,7 +5102,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 428374769}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1842431373}
+        m_TargetAssemblyTypeName: PolytopeSolutions.Toolset.Scenes.SceneLoader, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!222 &1842431372
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5084,6 +5123,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1842431369}
   m_CullTransparentMesh: 1
+--- !u!114 &1842431373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1842431369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37b5458822789db499bfd2f461634179, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 04_DesignOptionsComingSoon_Simran
 --- !u!1 &1863705750
 GameObject:
   m_ObjectHideFlags: 0
@@ -5700,6 +5752,7 @@ GameObject:
   - component: {fileID: 2035634516}
   - component: {fileID: 2035634518}
   - component: {fileID: 2035634517}
+  - component: {fileID: 2035634519}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -5770,7 +5823,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 579669144}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2035634519}
+        m_TargetAssemblyTypeName: PolytopeSolutions.Toolset.Scenes.SceneLoader, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!222 &2035634518
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5779,6 +5844,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2035634515}
   m_CullTransparentMesh: 1
+--- !u!114 &2035634519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2035634515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37b5458822789db499bfd2f461634179, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 04_DesignOptionsComingSoon_Simran
 --- !u!1 &2037011649
 GameObject:
   m_ObjectHideFlags: 0
@@ -5790,6 +5868,7 @@ GameObject:
   - component: {fileID: 2037011650}
   - component: {fileID: 2037011652}
   - component: {fileID: 2037011651}
+  - component: {fileID: 2037011653}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -5860,7 +5939,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 242626069}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 2037011653}
+        m_TargetAssemblyTypeName: PolytopeSolutions.Toolset.Scenes.SceneLoader, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!222 &2037011652
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5869,6 +5960,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2037011649}
   m_CullTransparentMesh: 1
+--- !u!114 &2037011653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2037011649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37b5458822789db499bfd2f461634179, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 04_DesignOptionsComingSoon_Simran
 --- !u!1 &2131876296
 GameObject:
   m_ObjectHideFlags: 0

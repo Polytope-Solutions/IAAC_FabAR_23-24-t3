@@ -411,7 +411,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37b5458822789db499bfd2f461634179, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: 03_HomePage_Afham1
+  sceneName: 03_HomePage_Simran
 --- !u!114 &1005522411
 MonoBehaviour:
   m_ObjectHideFlags: 0
