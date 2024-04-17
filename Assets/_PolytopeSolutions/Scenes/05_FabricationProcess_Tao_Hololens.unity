@@ -3335,7 +3335,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 196, y: -200}
+  m_AnchoredPosition: {x: 168, y: -200}
   m_SizeDelta: {x: 727.25, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &763663367
@@ -4540,7 +4540,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'SiteScanning
+  m_text: 'Site Scanning
 
 '
   m_isRightToLeft: 0
@@ -5344,7 +5344,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1477, y: -216}
+  m_AnchoredPosition: {x: 1513, y: -216}
   m_SizeDelta: {x: 253.25, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1066176351
