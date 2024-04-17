@@ -394,6 +394,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Home and Back Button
       objectReference: {fileID: 0}
+    - target: {fileID: 4751042186252133981, guid: 811350c1c6c9d7c44b4298d6bfedbd4f, type: 3}
+      propertyPath: sceneName
+      value: 04_DesignOptions_Simran
+      objectReference: {fileID: 0}
     - target: {fileID: 5249775847643054183, guid: 811350c1c6c9d7c44b4298d6bfedbd4f, type: 3}
       propertyPath: m_Pivot.x
       value: 0
